@@ -1,0 +1,7 @@
+numpy
+scipy
+torchvision
+pytorch
+sklearn
+pykitti
+https://github.com/matherm/Lie-Adam

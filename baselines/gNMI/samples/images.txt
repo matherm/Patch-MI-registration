@@ -1,0 +1,10 @@
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/0.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/1.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/2.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/3.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/4.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/5.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/6.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/7.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/8.bmp
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/photo/9.bmp

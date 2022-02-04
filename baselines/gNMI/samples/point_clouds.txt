@@ -1,0 +1,10 @@
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/0.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/1.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/2.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/3.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/4.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/5.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/6.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/7.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/8.pcd
+/home/ios/GitHub/automatic_lidar_camera_calibration/data/pcdFiles/9.pcd

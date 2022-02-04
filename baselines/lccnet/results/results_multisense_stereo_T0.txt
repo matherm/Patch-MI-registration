@@ -1,0 +1,102 @@
+Iteration 0: 
+Translation Error && Rotation Error:
+Iteration 0: 	Mean Translation Error: 0.0000 cm      Mean Rotation Error: 1.8026 °
+Iteration 0: 	Median Translation Error: 0.0000 cm      Median Rotation Error: 1.8460 °
+Iteration 0: 	Std. Translation Error: 0.0000 cm      Std. Rotation Error: 0.5226 °
+
+Translation Error XYZ:
+Iteration 0: 	Mean Translation X Error: 0.0000 cm      Median Translation X Error: 0.0000 cm      Std. Translation X Error: 0.0000 cm 
+Iteration 0: 	Mean Translation Y Error: 0.0000 cm      Median Translation Y Error: 0.0000 cm      Std. Translation Y Error: 0.0000 cm 
+Iteration 0: 	Mean Translation Z Error: 0.0000 cm      Median Translation Z Error: 0.0000 cm      Std. Translation Z Error: 0.0000 cm 
+
+Rotation Error RPY:
+Iteration 0: 	Mean Rotation Roll Error:  0.7259 °     Median Rotation Roll Error: 0.7507 °     Std. Rotation Roll Error: 0.1543 °
+Iteration 0: 	Mean Rotation Pitch Error:  0.8699 °     Median Rotation Pitch Error: 1.0913 °     Std. Rotation Pitch Error: 0.5484 °
+Iteration 0: 	Mean Rotation Yaw Error:  1.0105 °     Median Rotation Yaw Error: 0.8250 °     Std. Rotation Yaw Error: 0.3323 °
+
+
+Iteration 1: 
+Translation Error && Rotation Error:
+Iteration 1: 	Mean Translation Error: 221.6855 cm      Mean Rotation Error: 8.0991 °
+Iteration 1: 	Median Translation Error: 222.2256 cm      Median Rotation Error: 7.9298 °
+Iteration 1: 	Std. Translation Error: 5.1146 cm      Std. Rotation Error: 2.2080 °
+
+Translation Error XYZ:
+Iteration 1: 	Mean Translation X Error: 92.8529 cm      Median Translation X Error: 28.7762 cm      Std. Translation X Error: 114.7504 cm 
+Iteration 1: 	Mean Translation Y Error: 85.7519 cm      Median Translation Y Error: 24.6304 cm      Std. Translation Y Error: 113.2984 cm 
+Iteration 1: 	Mean Translation Z Error: 80.2779 cm      Median Translation Z Error: 20.0612 cm      Std. Translation Z Error: 121.9809 cm 
+
+Rotation Error RPY:
+Iteration 1: 	Mean Rotation Roll Error:  3.2464 °     Median Rotation Roll Error: 3.9072 °     Std. Rotation Roll Error: 1.9105 °
+Iteration 1: 	Mean Rotation Pitch Error:  4.1131 °     Median Rotation Pitch Error: 4.0987 °     Std. Rotation Pitch Error: 1.7039 °
+Iteration 1: 	Mean Rotation Yaw Error:  4.0097 °     Median Rotation Yaw Error: 3.8165 °     Std. Rotation Yaw Error: 1.9454 °
+
+
+Iteration 2: 
+Translation Error && Rotation Error:
+Iteration 2: 	Mean Translation Error: 308.2550 cm      Mean Rotation Error: 9.3774 °
+Iteration 2: 	Median Translation Error: 307.6740 cm      Median Rotation Error: 9.1017 °
+Iteration 2: 	Std. Translation Error: 9.9685 cm      Std. Rotation Error: 2.0357 °
+
+Translation Error XYZ:
+Iteration 2: 	Mean Translation X Error: 134.0191 cm      Median Translation X Error: 59.8256 cm      Std. Translation X Error: 170.2409 cm 
+Iteration 2: 	Mean Translation Y Error: 107.7754 cm      Median Translation Y Error: 11.8018 cm      Std. Translation Y Error: 169.9604 cm 
+Iteration 2: 	Mean Translation Z Error: 114.5215 cm      Median Translation Z Error: 27.6131 cm      Std. Translation Z Error: 166.1304 cm 
+
+Rotation Error RPY:
+Iteration 2: 	Mean Rotation Roll Error:  3.8166 °     Median Rotation Roll Error: 3.1240 °     Std. Rotation Roll Error: 1.7389 °
+Iteration 2: 	Mean Rotation Pitch Error:  5.5604 °     Median Rotation Pitch Error: 6.3529 °     Std. Rotation Pitch Error: 1.4073 °
+Iteration 2: 	Mean Rotation Yaw Error:  5.6368 °     Median Rotation Yaw Error: 5.4365 °     Std. Rotation Yaw Error: 1.2169 °
+
+
+Iteration 3: 
+Translation Error && Rotation Error:
+Iteration 3: 	Mean Translation Error: 364.5334 cm      Mean Rotation Error: 10.4900 °
+Iteration 3: 	Median Translation Error: 364.0550 cm      Median Rotation Error: 10.3276 °
+Iteration 3: 	Std. Translation Error: 10.7510 cm      Std. Rotation Error: 1.7002 °
+
+Translation Error XYZ:
+Iteration 3: 	Mean Translation X Error: 163.1023 cm      Median Translation X Error: 85.2029 cm      Std. Translation X Error: 190.0672 cm 
+Iteration 3: 	Mean Translation Y Error: 137.5505 cm      Median Translation Y Error: 48.3734 cm      Std. Translation Y Error: 189.1096 cm 
+Iteration 3: 	Mean Translation Z Error: 143.7305 cm      Median Translation Z Error: 62.8923 cm      Std. Translation Z Error: 186.7676 cm 
+
+Rotation Error RPY:
+Iteration 3: 	Mean Rotation Roll Error:  3.7535 °     Median Rotation Roll Error: 2.7860 °     Std. Rotation Roll Error: 3.4625 °
+Iteration 3: 	Mean Rotation Pitch Error:  6.5779 °     Median Rotation Pitch Error: 6.2872 °     Std. Rotation Pitch Error: 1.1256 °
+Iteration 3: 	Mean Rotation Yaw Error:  6.1594 °     Median Rotation Yaw Error: 6.1993 °     Std. Rotation Yaw Error: 1.8618 °
+
+
+Iteration 4: 
+Translation Error && Rotation Error:
+Iteration 4: 	Mean Translation Error: 380.7375 cm      Mean Rotation Error: 9.8769 °
+Iteration 4: 	Median Translation Error: 380.2936 cm      Median Rotation Error: 9.6577 °
+Iteration 4: 	Std. Translation Error: 10.7280 cm      Std. Rotation Error: 1.9216 °
+
+Translation Error XYZ:
+Iteration 4: 	Mean Translation X Error: 166.4568 cm      Median Translation X Error: 78.2916 cm      Std. Translation X Error: 201.7758 cm 
+Iteration 4: 	Mean Translation Y Error: 141.9258 cm      Median Translation Y Error: 51.6586 cm      Std. Translation Y Error: 199.4509 cm 
+Iteration 4: 	Mean Translation Z Error: 149.8732 cm      Median Translation Z Error: 65.6813 cm      Std. Translation Z Error: 194.2032 cm 
+
+Rotation Error RPY:
+Iteration 4: 	Mean Rotation Roll Error:  3.8000 °     Median Rotation Roll Error: 4.4284 °     Std. Rotation Roll Error: 3.4154 °
+Iteration 4: 	Mean Rotation Pitch Error:  5.3158 °     Median Rotation Pitch Error: 4.8323 °     Std. Rotation Pitch Error: 1.2019 °
+Iteration 4: 	Mean Rotation Yaw Error:  6.0901 °     Median Rotation Yaw Error: 7.2160 °     Std. Rotation Yaw Error: 2.1459 °
+
+
+Iteration 5: 
+Translation Error && Rotation Error:
+Iteration 5: 	Mean Translation Error: 375.5506 cm      Mean Rotation Error: 9.5698 °
+Iteration 5: 	Median Translation Error: 375.1251 cm      Median Rotation Error: 9.3102 °
+Iteration 5: 	Std. Translation Error: 10.7764 cm      Std. Rotation Error: 2.1151 °
+
+Translation Error XYZ:
+Iteration 5: 	Mean Translation X Error: 164.0782 cm      Median Translation X Error: 73.5754 cm      Std. Translation X Error: 199.7393 cm 
+Iteration 5: 	Mean Translation Y Error: 138.8833 cm      Median Translation Y Error: 49.0729 cm      Std. Translation Y Error: 197.4056 cm 
+Iteration 5: 	Mean Translation Z Error: 145.9420 cm      Median Translation Z Error: 61.8570 cm      Std. Translation Z Error: 193.6602 cm 
+
+Rotation Error RPY:
+Iteration 5: 	Mean Rotation Roll Error:  3.6332 °     Median Rotation Roll Error: 4.8809 °     Std. Rotation Roll Error: 3.1061 °
+Iteration 5: 	Mean Rotation Pitch Error:  5.2158 °     Median Rotation Pitch Error: 5.2556 °     Std. Rotation Pitch Error: 0.3908 °
+Iteration 5: 	Mean Rotation Yaw Error:  5.8782 °     Median Rotation Yaw Error: 6.5129 °     Std. Rotation Yaw Error: 1.2585 °
+
+
