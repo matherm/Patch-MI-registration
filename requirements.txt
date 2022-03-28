@@ -2,6 +2,10 @@ numpy
 scipy
 torchvision
 pytorch
+pytorch_geometric
+pytorch_sparse
+pytorch_cluster
+pytorch_scatter
 sklearn
 pykitti
 https://github.com/matherm/Lie-Adam
