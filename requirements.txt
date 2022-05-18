@@ -8,4 +8,4 @@ pytorch_cluster
 pytorch_scatter
 sklearn
 pykitti
-https://github.com/matherm/Lie-Adam
+git+https://github.com/matherm/Lie-Adam
