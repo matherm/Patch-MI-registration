@@ -393,7 +393,8 @@ class AutoCalibration(nn.Module):
         if rng is None:
             rng = np.random
             
-         # Differentialble Sampling
+        # Differentialble Sampling
+        batch_size = np.min([batch_size, len(valid_proj_pointcloud)])
         index_joint = rng.choice(len(valid_proj_pointcloud), size=batch_size, replace=False)
         crops_image_joint = crop(image.repeat(batch_size, 1, 1, 1),       
                                  valid_proj_pointcloud[index_joint], 
@@ -419,6 +420,8 @@ class AutoCalibration(nn.Module):
         # Unplug the gradient
         valid_proj_pointcloud = valid_proj_pointcloud.detach() 
         
+        # Differentialble Sampling
+        batch_size = np.min([batch_size, len(valid_proj_pointcloud)])
         index_joint = rng.choice(len(valid_proj_pointcloud), size=batch_size, replace=False)
         crops_image_margi = crop(image.repeat(batch_size, 1, 1, 1), 
                                  valid_proj_pointcloud[index_joint], 
