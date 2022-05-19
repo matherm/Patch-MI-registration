@@ -1,8 +1,15 @@
-# Targetless Lidar-camera registration usingpatch-wise mutual information optimization
-
 ![](/teaser.PNG)
+## Targetless Lidar-camera registration using patch-wise mutual information optimization
+Matthias Hermann, Dennis Grießer, Bernhard Gundel, Daniel Dold, Georg Umlauf and Matthias O. Franz
 
-## Usage
+    @article{herm22,
+        title={Targetless Lidar-camera registration using patch-wise mutual information optimization},
+        author={Matthias Hermann, Dennis Grießer, Bernhard Gundel, Daniel Dold, Georg Umlauf and Matthias O. Franz},
+        journal={25th International Conference on Information Fusion},
+        year={2022}
+    }
+
+## Basic usage
     basedir = "/path/to/kitti/like/dataset"
     datas_test = [PyKitti2(basedir, f"{i:04d}", with_labels="none") for i in range(10,14)]
     
